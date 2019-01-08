@@ -1,0 +1,42 @@
+2019-01-06 22:34:58,684  INFO [main] LoginTest:54 - ****************************** Starting test cases execution  *****************************************
+2019-01-06 22:35:04,270  INFO [main] LoginTest:63 - launching chrome broswer
+2019-01-06 22:35:19,097  INFO [main] LoginTest:77 - entering application URL
+2019-01-06 22:35:19,099  WARN [main] LoginTest:79 - Hey this just a warning message
+2019-01-06 22:35:19,100 FATAL [main] LoginTest:81 - hey this is just fatal error message
+2019-01-06 22:35:19,101 DEBUG [main] LoginTest:83 - this is debug message
+2019-01-06 22:35:19,123  INFO [main] LoginTest:95 - ****************************** starting test case *****************************************
+2019-01-06 22:35:19,124  INFO [main] LoginTest:97 - ****************************** freeCrmTitleTest *****************************************
+2019-01-06 22:35:19,147  INFO [main] LoginTest:103 - login page title is--->#1 Free CRM software in the cloud for sales and service
+2019-01-06 22:35:20,235  INFO [main] LoginTest:155 - ****************************** Browser is closed *****************************************
+2019-01-06 22:35:20,244  INFO [main] LoginTest:54 - ****************************** Starting test cases execution  *****************************************
+2019-01-06 22:35:25,821  INFO [main] LoginTest:63 - launching chrome broswer
+2019-01-06 22:35:34,797  INFO [main] LoginTest:77 - entering application URL
+2019-01-06 22:35:34,798  WARN [main] LoginTest:79 - Hey this just a warning message
+2019-01-06 22:35:34,798 FATAL [main] LoginTest:81 - hey this is just fatal error message
+2019-01-06 22:35:34,799 DEBUG [main] LoginTest:83 - this is debug message
+2019-01-06 22:35:34,805  INFO [main] LoginTest:123 - ****************************** starting test case *****************************************
+2019-01-06 22:35:34,806  INFO [main] LoginTest:125 - ****************************** freemCRMLogoTest *****************************************
+2019-01-06 22:35:37,558  INFO [main] LoginTest:135 - ****************************** ending test case *****************************************
+2019-01-06 22:35:37,559  INFO [main] LoginTest:137 - ****************************** freemCRMLogoTest *****************************************
+2019-01-06 22:35:38,318  INFO [main] LoginTest:155 - ****************************** Browser is closed *****************************************
+2019-01-06 22:45:03,912  INFO [main] LoginTest:54 - ****************************** Starting test cases execution  *****************************************
+2019-01-06 22:45:08,024  INFO [main] LoginTest:63 - launching chrome broswer
+2019-01-06 22:45:24,446  INFO [main] LoginTest:77 - entering application URL
+2019-01-06 22:45:24,447  WARN [main] LoginTest:79 - Hey this just a warning message
+2019-01-06 22:45:24,447 FATAL [main] LoginTest:81 - hey this is just fatal error message
+2019-01-06 22:45:24,447 DEBUG [main] LoginTest:83 - this is debug message
+2019-01-06 22:45:24,457  INFO [main] LoginTest:95 - ****************************** starting test case *****************************************
+2019-01-06 22:45:24,459  INFO [main] LoginTest:97 - ****************************** freeCrmTitleTest *****************************************
+2019-01-06 22:45:24,481  INFO [main] LoginTest:103 - login page title is--->#1 Free CRM software in the cloud for sales and service
+2019-01-06 22:45:25,389  INFO [main] LoginTest:155 - ****************************** Browser is closed *****************************************
+2019-01-06 22:45:25,390  INFO [main] LoginTest:54 - ****************************** Starting test cases execution  *****************************************
+2019-01-06 22:45:28,835  INFO [main] LoginTest:63 - launching chrome broswer
+2019-01-06 22:45:36,437  INFO [main] LoginTest:77 - entering application URL
+2019-01-06 22:45:36,437  WARN [main] LoginTest:79 - Hey this just a warning message
+2019-01-06 22:45:36,437 FATAL [main] LoginTest:81 - hey this is just fatal error message
+2019-01-06 22:45:36,437 DEBUG [main] LoginTest:83 - this is debug message
+2019-01-06 22:45:36,443  INFO [main] LoginTest:123 - ****************************** starting test case *****************************************
+2019-01-06 22:45:36,443  INFO [main] LoginTest:125 - ****************************** freemCRMLogoTest *****************************************
+2019-01-06 22:45:36,522  INFO [main] LoginTest:135 - ****************************** ending test case *****************************************
+2019-01-06 22:45:36,525  INFO [main] LoginTest:137 - ****************************** freemCRMLogoTest *****************************************
+2019-01-06 22:45:37,249  INFO [main] LoginTest:155 - ****************************** Browser is closed *****************************************
